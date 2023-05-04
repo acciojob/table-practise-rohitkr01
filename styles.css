@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+table{
+	width:50%;
+}
+table,th,td{
+	background-color:rgb(255, 255, 0);
+	border: 1px solid rgb(0, 0, 0);
+}
